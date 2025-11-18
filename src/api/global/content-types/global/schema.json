@@ -43,6 +43,9 @@
     },
     "cel": {
       "type": "string"
+    },
+    "aboutDescription": {
+      "type": "text"
     }
   }
 }
